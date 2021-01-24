@@ -1,0 +1,137 @@
+
+/*START : HEADER*/
+#topHeader{
+    background-color: aliceblue;
+}
+#topHeader a{
+    color:#2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+
+.container-fluid
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+/*END : HEADER*/
+/*---------------------------------------------------------*/
+/*START : FOOTER*/
+.full-footer{
+    background-color: #2c3e50;
+}
+.top-footer p, a, h3{
+    color: white;
+}
+.bottom-footer{
+    border-top: 1px solid red;
+    background-color: #031b2e;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    color: white;
+    margin-top: 9px;
+    text-align: center;
+}
+ /*END : FOOTER*/
+ 
+ /*-----------------------------------------------------*/
+ /*-----------------------------------------------------*/
+ /*START: Home Page first top-hero-section*/
+ .side-hero-section
+ {
+    border-top: 1px solid red;
+    background-color: #2c3e50;
+    padding-top: 2px;
+    padding-bottom: 3px;
+ }
+ 
+ .top-hero-section{
+    border-top: 1px solid red;
+    color: white;
+    background-color: #474787;
+    font-weight: 600;
+ }
+ .qualities-img{
+     width: 200px;
+     height: 200px;
+ }
+ /*END: Home Page first top-hero-section*/
+
+ /*START : Home->Rquirement-SECTION*/
+.requirements-section
+{
+    background-color: #474787;
+    margin-bottom: 10px;
+}
+
+.home-newsletter{
+    background-color: #474787;
+    color: white;
+}
+.home-newsletter .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.home-newsletter .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background: rgb(211, 44, 44);
+    color: white;
+}
+.home-service-heading{
+    border-top: 1px solid red;
+    background-color: #2c3e50;
+    color: #f0f0f0;
+}
+/*END : Home->Rquirement-SECTION*/
+
+/*START: Home-clients*/
+.clients-section{
+    background-color: #f0f0f0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+.clients-img{
+    height: 150px;
+}
+/*END: Home-clients*/
+/*-----------------------------------------------------*/
+/*--ABOUT US: START---------------------------------------------------*/
+.breadcrumbs-section{
+    border-top: 1px solid red;
+    background-color:#786fa6;
+    
+}
+/*--ABOUT US: END-----------------------------------------------------*/
+
+/*--Portfolio: Start-----------------------------------------------------*/
+.portfolio-left{
+    border-radius: 20px 20px 20px 20px;
+    background-color: #f0f0f0;
+    
+    
+}
+.portfolio-right{
+    border-radius: 20px 20px 20px 20px;
+    background-color: #f0f0f0;
+}
+
+.portfolio{
+    color: black;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #f0f0f0;
+}
+/*--Portfolio: END-----------------------------------------------------*/
+
+.bar{
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 17px;
+}
